@@ -3,7 +3,7 @@ import json
 import unittest
 import random
 
-
+si is fun!
 ## As usual, this HW is worth 500 points in total.
 ## There are 10 problems. Each one is worth 50 points.
 
